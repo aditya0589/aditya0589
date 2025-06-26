@@ -34,9 +34,9 @@
 
 ### 📌 Featured Projects:
 - 🧠 [ASTRA AI Multitool](https://github.com/aditya0589/ASTRA.git)
-- 🌍 [ImagePro - Image Processing App](https://github.com/aditya0589/ImagePro.git)
+- 🌍 [ImagePro - AI image creation and editing](https://github.com/aditya0589/ImagePro.git)
 - 📊 [SQL Data Warehousing Project](https://github.com/aditya0589/sql_data_warehouse_project.git)
-- 🧬 [GenDS - Gender & Demographic Predictor](https://github.com/aditya0589/GenDS.git)
+- 🧬 [GenDS - Generate End to End data science workflows](https://github.com/aditya0589/GenDS.git)
 
 ---
 
