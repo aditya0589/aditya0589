@@ -1,7 +1,7 @@
 ## Hi, I'm Aditya 👋
 
 🚀 I'm a Data Scientist & Full Stack Developer  
-🎓 CS Undergrad | 📊 Kaggle Enthusiast | 💡 AI Builder
+🎓 CS Undergrad | 📊 data Enthusiast | 💡 AI Builder
 
 ---
 
