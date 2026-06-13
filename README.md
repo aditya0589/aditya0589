@@ -27,7 +27,7 @@ Currently focused on **LLM-based applications**, **MLOps**, and **real-time data
 |---|---|---|
 | 🧠 **[OneClick.AI](https://github.com/aditya0589/OneClick.AI)** | No-code ML platform — upload a dataset, get a trained model | Python · FaatAPI · Scikit-learn · Docker |
 | 🎓 **[Tutorbot.ai](https://github.com/aditya0589/TutorBot.ai)** | AI-powered academic doubt-solving assistant using LLMs | LangChain · HuggingFace · Python |
-| 🏗️ **[SQL Data Warehouse](https://github.com/aditya0589/sql_data_warehouse_project)** | End-to-end analytics pipeline with dimensional modeling | SQL · Airflow · dbt |
+| 🏗️ **[SQL Data Warehouse](https://github.com/aditya0589/sql_data_warehouse_project)** | End-to-end analytics pipeline with dimensional modeling | SQL |
 | 🌍 **[Real-Time Data Pipeline](https://github.com/aditya0589/Smart-Travel-Real-time-Data-Engineering-Project)** | Streaming travel insights platform | Kafka · Spark · AWS . Docker |
 | 🌍 **[NewsRAG](https://github.com/aditya0589/NewsRAG)** | Personalized news assistant using RAG | Kafka · Spark · AWS |
 | 🧠 **[Wine Quality Prediction](https://github.com/aditya0589/wine-quality-mlops)** | Personalized news assistant using RAG | Kafka · Spark · AWS |
