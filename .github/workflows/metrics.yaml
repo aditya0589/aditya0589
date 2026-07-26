@@ -17,7 +17,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
-          base: ""
+          base: header, activity, community, repositories
           config_timezone: Asia/Kolkata
 
           # core stats card (stars, commits, PRs, issues, contributed-to)
@@ -30,3 +30,24 @@ jobs:
 
           plugin_lines: yes
           plugin_lines_history_limit: 15
+
+          extras_css: |
+            body {
+              background-color: #0d1117 !important;
+              color: #f0f6fc !important;
+            }
+            h1, h2, h3, h4, h5, h6 {
+              color: #58A6FF !important;
+            }
+            p, span, div, li, text {
+              color: #8b949e !important;
+            }
+            a {
+              color: #58A6FF !important;
+            }
+            .progress, progress, [class*="bar"] {
+              background-color: #1f6feb !important;
+            }
+            hr, .divider, [class*="separator"] {
+              border-color: #21262d !important;
+            }
