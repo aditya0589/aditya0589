@@ -75,10 +75,8 @@ Currently focused on **LLM-based applications**, **MLOps**, and **real-time data
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=aditya0589&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&bg_color=0d1117" height="170"/>
+<img src="./metrics.svg" width="100%"/>
 <img src="https://streak-stats.demolab.com/?user=aditya0589&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6F00&currStreakLabel=58A6FF&sideLabels=8b949e" height="170"/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aditya0589&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=8" height="150"/>
 
 </div>
 
