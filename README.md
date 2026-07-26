@@ -25,12 +25,12 @@ Currently focused on **LLM-based applications**, **MLOps**, and **real-time data
 
 | Project | Description | Stack |
 |---|---|---|
-| 🧠 **[OneClick.AI](https://github.com/aditya0589/OneClick.AI)** | No-code ML platform — upload a dataset, get a trained model | Python · FaatAPI · Scikit-learn · Docker |
+| 🧠 **[OneClick.AI](https://github.com/aditya0589/OneClick.AI)** | No-code ML platform — upload a dataset, get a trained model | Python · FastAPI · Scikit-learn · Docker |
 | 🎓 **[Tutorbot.ai](https://github.com/aditya0589/TutorBot.ai)** | AI-powered academic doubt-solving assistant using LLMs | LangChain · HuggingFace · Python |
 | 🏗️ **[SQL Data Warehouse](https://github.com/aditya0589/sql_data_warehouse_project)** | End-to-end analytics pipeline with dimensional modeling | SQL |
-| 🌍 **[Real-Time Data Pipeline](https://github.com/aditya0589/Smart-Travel-Real-time-Data-Engineering-Project)** | Streaming travel insights platform | Kafka · Spark · AWS . Docker |
-| 🌍 **[NewsRAG](https://github.com/aditya0589/NewsRAG)** | Personalized news assistant using RAG | python . AWS Bedrock · AWS Lambda |
-| 🧠 **[Wine Quality Prediction](https://github.com/aditya0589/wine-quality-mlops)** | Personalized news assistant using RAG | MLFlow . Scikit-learn . docker . DVC |
+| 🌍 **[Real-Time Data Pipeline](https://github.com/aditya0589/Smart-Travel-Real-time-Data-Engineering-Project)** | Streaming travel insights platform | Kafka · Spark · AWS · Docker |
+| 🌍 **[NewsRAG](https://github.com/aditya0589/NewsRAG)** | Personalized news assistant using RAG | Python · AWS Bedrock · AWS Lambda |
+| 🍷 **[Wine Quality Prediction](https://github.com/aditya0589/wine-quality-mlops)** | End-to-end MLOps pipeline for wine quality prediction with experiment tracking | MLflow · Scikit-learn · Docker · DVC |
 
 ---
 
@@ -75,10 +75,10 @@ Currently focused on **LLM-based applications**, **MLOps**, and **real-time data
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aditya0589&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&bg_color=0d1117" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya0589&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6F00&currStreakLabel=58A6FF&sideLabels=8b949e" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api?username=aditya0589&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&bg_color=0d1117" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=aditya0589&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6F00&currStreakLabel=58A6FF&sideLabels=8b949e" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya0589&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=8" height="150"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aditya0589&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=8" height="150"/>
 
 </div>
 
