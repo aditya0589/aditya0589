@@ -75,7 +75,6 @@ Currently focused on **LLM-based applications**, **MLOps**, and **real-time data
 
 <div align="center">
 
-<img src="./metrics.svg" width="500"/>
 <img src="https://streak-stats.demolab.com/?user=aditya0589&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6F00&currStreakLabel=58A6FF&sideLabels=8b949e" height="170"/>
 
 </div>
